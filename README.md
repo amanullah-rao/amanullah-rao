@@ -16,8 +16,9 @@ I enjoy turning research into working systems.
 - **A hybrid spiking-convolutional neural network approach for advancing
   high-quality image inpainting**
   S. Ullah, **A. Amanullah**, K. Roy, J.-A. Lee, S. Chul-Jun, T. Jungeblut.
-  *International Conference on Computer Vision (ICCV)*, 2023.
-  [Paper](https://pub.uni-bielefeld.de/record/2985712)
+  *ICCV 2023 Workshops (PerDream)*, Paris, France, October 2023.
+  [Paper](https://pub.uni-bielefeld.de/record/2985712) ·
+  [DOI: 10.5281/zenodo.10458018](https://doi.org/10.5281/zenodo.10458018)
 
 More on [Google Scholar](https://scholar.google.com/citations?user=yKgfKfwAAAAJ).
 
