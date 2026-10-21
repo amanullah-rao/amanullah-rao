@@ -1,15 +1,25 @@
 # Hi, I'm Amanullah 👋
 
-AI/ML researcher and developer based in South Korea. I work on computer
-vision, deep learning and human–computer interaction, and I enjoy turning
-research into working systems.
+AI/ML researcher and developer at **Kunsan National University**, South Korea.
+I work on computer vision, deep learning and human–computer interaction, and
+I enjoy turning research into working systems.
 
 ## Research interests
 
-- Computer vision
-- Deep learning
+- Artificial intelligence, machine learning and deep learning
+- Computer vision and medical image analysis
+- Physiological computing and wearable sensors
 - Human–computer interaction (HCI)
-- Medical image analysis
+
+## Publications
+
+- **A hybrid spiking-convolutional neural network approach for advancing
+  high-quality image inpainting**
+  S. Ullah, **A. Amanullah**, K. Roy, J.-A. Lee, S. Chul-Jun, T. Jungeblut.
+  *International Conference on Computer Vision (ICCV)*, 2023.
+  [Paper](https://pub.uni-bielefeld.de/record/2985712)
+
+More on [Google Scholar](https://scholar.google.com/citations?user=yKgfKfwAAAAJ).
 
 ## Projects
 
