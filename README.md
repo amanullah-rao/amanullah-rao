@@ -33,4 +33,5 @@ More on [Google Scholar](https://scholar.google.com/citations?user=yKgfKfwAAAAJ)
 ## Find me
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=yKgfKfwAAAAJ)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Amanullah-Amanullah-4)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-ullah-136b80115/)
